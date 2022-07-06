@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2022.7.6)  6 JUL 2022 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2022.7.6)  6 JUL 2022 18:11
 entering extended mode
-**./cv_4.tex
-(cv_4.tex
+**./AReaves_CV.tex
+(AReaves_CV.tex
 LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-22> (resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -290,8 +290,9 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box55
-) (cv_4.aux)
-\openout1 = `cv_4.aux'.
+)
+No file AReaves_CV.aux.
+\openout1 = `AReaves_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
@@ -312,7 +313,6 @@ LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 Package hyperref Info: Link coloring OFF on input line 45.
-
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -327,10 +327,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
-
-(cv_4.out) (cv_4.out)
 \@outlinefile=\write3
-\openout3 = `cv_4.out'.
+\openout3 = `AReaves_CV.out'.
 
 
 *geometry* driver: auto-detecting
@@ -379,18 +377,24 @@ LaTeX Font Info:    Calculating math sizes for size <17> on input line 92.
 
 Package hyperref Warning: Ignoring empty anchor on input line 283.
 
-[3] (cv_4.aux)
-Package rerunfilecheck Info: File `cv_4.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+[3] (AReaves_CV.aux)
+
+Package rerunfilecheck Warning: File `AReaves_CV.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AReaves_CV.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10921 strings out of 478681
- 168852 string characters out of 2856390
- 481417 words of memory out of 3000000
+ 10915 strings out of 478681
+ 168717 string characters out of 2856390
+ 481228 words of memory out of 3000000
  28907 multiletter control sequences out of 15000+600000
  413807 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,9n,76p,599b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,9n,76p,605b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<C:/P
 rogram Files/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Program 
 Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
@@ -399,7 +403,7 @@ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
 nts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pf
 b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_4.pdf (3 pages, 145343 bytes).
+Output written on AReaves_CV.pdf (3 pages, 145343 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
