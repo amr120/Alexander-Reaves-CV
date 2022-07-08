@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2022.7.6)  6 JUL 2022 18:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2022.7.6)  7 JUL 2022 12:37
 entering extended mode
 **./AReaves_CV.tex
 (AReaves_CV.tex
@@ -291,7 +291,7 @@ File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box55
 )
-No file AReaves_CV.aux.
+(AReaves_CV.aux)
 \openout1 = `AReaves_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -313,7 +313,7 @@ LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 Package hyperref Info: Link coloring OFF on input line 45.
-(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+ (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
@@ -327,6 +327,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
+
+(AReaves_CV.out) (AReaves_CV.out)
 \@outlinefile=\write3
 \openout3 = `AReaves_CV.out'.
 
@@ -378,19 +380,13 @@ LaTeX Font Info:    Calculating math sizes for size <17> on input line 92.
 Package hyperref Warning: Ignoring empty anchor on input line 283.
 
 [3] (AReaves_CV.aux)
-
-Package rerunfilecheck Warning: File `AReaves_CV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AReaves_CV.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `AReaves_CV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10915 strings out of 478681
- 168717 string characters out of 2856390
- 481228 words of memory out of 3000000
+ 10921 strings out of 478681
+ 168960 string characters out of 2856390
+ 481447 words of memory out of 3000000
  28907 multiletter control sequences out of 15000+600000
  413807 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -403,7 +399,7 @@ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
 nts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pf
 b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on AReaves_CV.pdf (3 pages, 145343 bytes).
+Output written on AReaves_CV.pdf (3 pages, 145251 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
