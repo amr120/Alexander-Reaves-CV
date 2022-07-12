@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2022.7.6)  8 JUL 2022 17:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2022.7.6)  12 JUL 2022 10:58
 entering extended mode
 **./AReaves_CV.tex
 (AReaves_CV.tex
@@ -384,10 +384,10 @@ Package rerunfilecheck Info: File `AReaves_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10921 strings out of 478681
- 168960 string characters out of 2856390
- 481447 words of memory out of 3000000
- 28907 multiletter control sequences out of 15000+600000
+ 10922 strings out of 478681
+ 168965 string characters out of 2856390
+ 481466 words of memory out of 3000000
+ 28908 multiletter control sequences out of 15000+600000
  413807 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,9n,76p,605b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -399,7 +399,7 @@ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX
 nts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pf
 b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on AReaves_CV.pdf (3 pages, 145312 bytes).
+Output written on AReaves_CV.pdf (3 pages, 145245 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
